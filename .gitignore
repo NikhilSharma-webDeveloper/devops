@@ -1,0 +1,3 @@
+
+vagrant/centos/.vagrant/*
+vagrant/ubuntu/.vagrant/*
